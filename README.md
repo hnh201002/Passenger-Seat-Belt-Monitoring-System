@@ -23,6 +23,8 @@ This project presents an **AI-based passenger seat belt monitoring system** usin
   * Dataset collection and labeling
   * Model training and testing
   * Performance evaluation in real-world conditions
+    
+<img width="587" height="63" alt="image" src="https://github.com/user-attachments/assets/78e16eb7-a4f7-4f4d-a807-628279ad8046" />
 
 ---
 
